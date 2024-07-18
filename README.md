@@ -32,26 +32,29 @@ Challenges faced:
 - Handling and preprocessing large datasets
 - Ensuring the accuracy and reliability of the forecasting model
 
-## Needs of this project
-- Frontend developers
-- Data exploration/descriptive statistics experts
-- Data processing/cleaning specialists
-- Statistical modeling professionals
-- Writeup/reporting contributors
-
 ## Links to each step of the process
-- [Housing Market Analysis - Fresno](link to notebook)
-- [Housing Market Analysis - Sacramento](link to notebook)
-- [Housing Market Analysis - San Diego](link to notebook)
-- [Housing Market Analysis - San Francisco](link to notebook)
-- [Housing Market Analysis - San Luis Obispo](link to notebook)
-- [Housing Market Analysis - Los Angeles](link to notebook)
-- [Housing Market Analysis - Riverside](link to notebook)
-- [Housing Market Analysis - Merced](link to notebook)
+- Data Preprocessing (https://github.com/AlbertHender/Cali_Housing_forecast/blob/main/Preprocessing.ipynb)
+- Exploratory Data Analysis (EDA) (https://github.com/AlbertHender/Cali_Housing_forecast/blob/main/EDA.ipynb)
+- Model Creation and Predictions (https://github.com/AlbertHender/Cali_Housing_forecast/blob/main/Housing_model.ipynb)
+- Tableau workbook (https://github.com/AlbertHender/Cali_Housing_forecast/blob/main/Cali_Housing_Workbook.twb)
 
-## END RESULTS
-Due to issues with Tableau I was unable to publish my dashboard. However screenshots of it's
+## Additional notes
+Overall the forecasting for median prices turned out very well, however predicting future average home values led to extreme undershooting of predicted values for unknown reasons. I decided to exclude the predicted home values because of this and only include the forecasted median prices. Also, due to issues with Tableau licensing, I was unable to publish my dashboard. However screenshots of it's
 entirety are provided below
+
+<iframe
+  src="Assets/KPI and Bar Charts.png"
+  width="800"
+  height="600"
+  frameborder="0"
+></iframe>
+
+<iframe
+  src="Assets/Line Graphs.png"
+  width="800"
+  height="600"
+  frameborder="0"
+></iframe>
 
 ## Contributing DSWG Members
 **Team Leads (Contacts):**
