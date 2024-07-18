@@ -45,15 +45,15 @@ entirety are provided below
 Bar charts and Analytics Summary:
 ![alt text](https://github.com/AlbertHender/Cali_Housing_forecast/blob/main/Assets/KPI%20and%20Bar%20Charts.png "KPI")
 
+Line Graphs:
+![alt text](https://github.com/AlbertHender/Cali_Housing_forecast/blob/main/Assets/Line_Graphs.png "Line Graphs")
 
-<iframe
-  src="Assets/Line_Graphs.png"
-  width="800"
-  height="600"
-  frameborder="0"
-></iframe>
+Median Geo Map:
+![alt text](https://github.com/AlbertHender/Cali_Housing_forecast/blob/main/Assets/Median%20Geo%20Map.png "Geo Map 1")
 
-## Contributing DSWG Members
-**Team Leads (Contacts):**
-- [Full Name](https://github.com/[github handle]) (@slackHandle)
+Value Geo Map:
+![alt text](https://github.com/AlbertHender/Cali_Housing_forecast/blob/main/Assets/Value%20Geo%20Map.png "Geo Map 2")
+
+## Contact
+-Email: adhender@ucsd.edu
 
