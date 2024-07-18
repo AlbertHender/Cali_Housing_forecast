@@ -42,7 +42,9 @@ Challenges faced:
 Overall the forecasting for median prices turned out very well, however predicting future average home values led to extreme undershooting of predicted values for unknown reasons. I decided to exclude the predicted home values because of this and only include the forecasted median prices. Also, due to issues with Tableau licensing, I was unable to publish my dashboard. However screenshots of it's
 entirety are provided below
 
-![alt text] (https://github.com/AlbertHender/Cali_Housing_forecast/blob/main/Assets/KPI%20and%20Bar%20Charts.png "KPI")
+Bar charts and Analytics Summary:
+![alt text](https://github.com/AlbertHender/Cali_Housing_forecast/blob/main/Assets/KPI%20and%20Bar%20Charts.png "KPI")
+
 
 <iframe
   src="Assets/Line_Graphs.png"
