@@ -50,7 +50,7 @@ entirety are provided below
 ></iframe>
 
 <iframe
-  src="Assets/Line Graphs.png"
+  src="Assets/Line_Graphs.png"
   width="800"
   height="600"
   frameborder="0"
