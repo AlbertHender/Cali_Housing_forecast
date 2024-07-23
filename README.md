@@ -3,7 +3,7 @@
 ### Project Status: Complete
 
 ## Project Intro/Objective
-The purpose of this project is to analyze the housing market trends in various cities in California, including Fresno, Sacramento, San Diego, San Francisco, San Luis Obispo, Los Angeles, Riverside, and Merced. By utilizing data obtained through the Zillow API and the Federal Reserve Bank of St.Louis .By implementing an XgBoost machine learning model, I aim to forecast future housing prices and provide valuable insights into the market. This project mainly aims to assist potential future home owners and those in real estate into the potential future for the housing market.
+The purpose of this project is to analyze the housing market trends in various cities in California, including Fresno, Sacramento, San Diego, San Francisco, San Luis Obispo, Los Angeles, Riverside, and Merced. By utilizing data obtained through the Zillow API and the Federal Reserve Bank of St.Louis. By implementing an XgBoost machine learning model, I aim to forecast future housing prices and provide valuable insights into the market. This project mainly aims to assist potential future home owners and those in real estate into the potential future for the housing market.
 
 ## Methods Used
 - Data Cleaning 
