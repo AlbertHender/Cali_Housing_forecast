@@ -45,7 +45,7 @@ entirety are provided below
 ## Bar charts and Analytics Summary:
 ![alt text](https://github.com/AlbertHender/Cali_Housing_forecast/blob/main/Assets/KPI%20and%20Bar%20Charts.png "KPI")
 
-## Line Graphs with forecast:
+## Line Graphs with median home price forecast:
 ![alt text](https://github.com/AlbertHender/Cali_Housing_forecast/blob/main/Assets/Line_Graphs.png "Line Graphs")
 
 ## Median Geo Map:
